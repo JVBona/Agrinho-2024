@@ -54,16 +54,16 @@
 
     .header_quemsomos{
         width: 100%;
-        background-color: #9333d3; 
+        background-color: #ffffff; 
     }
 
     .header_quemsomos .header_quemsomos_content{
         margin: 0px auto;
-        max-width: 1300px;
+        max-width: 1400px;
         display: flex;
     }
 
     .header_quemsomos_content .imgPerfil{
         border-radius: 50%;
-        width: 220px;
+        width: 0px;
     }
